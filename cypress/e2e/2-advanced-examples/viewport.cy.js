@@ -2,7 +2,7 @@
 
 context('Viewport', () => {
   beforeEach(() => {
-    cy.visit('https://example.cypress.io/commands/viewport')
+    cy.visit('http://qalab.pl.tivixlabs.com')
   })
 
   it('cy.viewport() - set the viewport size and dimension', () => {
